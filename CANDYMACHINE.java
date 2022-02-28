@@ -26,7 +26,7 @@ public static void main(String [] args) {
   System.out.println("Gummy bear  [50]");
   System.out.println("Judges      [15]");
   System.out.println("Maxx        [15]");
-  System.out.println("Snowubear   [56]");
+  System.out.println("Snowbear    [56]");
   System.out.println("V-fresh     [30]");
   
   System.out.println("What do you want to buy?");
